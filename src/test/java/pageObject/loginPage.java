@@ -30,18 +30,12 @@ public class loginPage {
 	    email.sendKeys(mail);
 	}
 	
-	public void enterPass(String pwd)
-	{
-		password.sendKeys(pwd);
-	}
+//	public void enterPass(String pwd)
+//	{
+//		password.sendKeys(pwd);
+//	}
 	
-	public void loginBtn() 
-	{
-	  loginBtn.click();	
-	}
 	
-	public void clickonLogout()
-	{
-		logout.click();
-	}
+	
+	
 }
